@@ -209,4 +209,4 @@ fi
 # Architecture
 # Fedora/centos/redhat= i686, x86_64
 # Opensuse, Mageia, openmandriva, rosa = i586, x86_64
-# Use uname if you want actual architecture $(uname -p)
+# Use uname if you want actual architecture $(uname -m)
