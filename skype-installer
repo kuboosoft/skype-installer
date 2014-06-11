@@ -7,7 +7,6 @@
 # http://sourceforge.net/projects/postinstaller/
 # Contact: https://plus.google.com/u/0/communities/118230919321773121406
 
-source /usr/bin/postinstallerf/pid
 
 Name='skype'
 Version='4.2.0.13'
