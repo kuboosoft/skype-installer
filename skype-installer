@@ -9,7 +9,7 @@
 
 
 Name='skype'
-Version='4.2.0.13'
+Version='4.3.0.37'
 tmp_download_dir="/tmp/skype-$Version"
 License='Proprietary'
 installdir='/tmp/installdir'
@@ -22,7 +22,7 @@ Architecture=$(uname -m)
 Release='1'
 Distribution='fc20'
 Group='Applications/Internet'
-Checksum='b4d1dcc5290be92225b400ea877db874'
+Checksum='95db8f2072b9acd6f79ed42da3d6db79'
 
 #BuildRequires
 BR='ruby-fpm'
